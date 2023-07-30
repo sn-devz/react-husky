@@ -1,5 +1,5 @@
 import { render, screen } from "../test-utils";
-import { AppProvider } from "../providers/app-provider";
+// import { AppProvider } from "../providers/app-provider";
 import { MuiMode } from "./MuiMode";
 
 describe("mui test" , () => {
